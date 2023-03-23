@@ -90,3 +90,4 @@
 *[VATPAC]: VATSIM Australia Pacific
 *[VATSIM]: Virtual Air Traffic Simulation Network
 *[TOD]: Top Of Descent
+*[IMC]: Instrument Meteorological Conditions
